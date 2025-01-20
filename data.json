@@ -1,5 +1,7 @@
+Berikut adalah representasi teks Anda dalam format JSON:
+
 {
-  "I":{ 
+  "I": {
     "title": "PENDAHULUAN",
     "content": [
       "Internet merupakan temuan spektakuler pada awal milenium kedua. Meskipun Departemen Pertahanan Amerika pada 1969 telah merintis pembuatannya, namun baru di pertengahan 1990-an dan awal 2000-an masyarakat mengenalnya lebih luas. Pertukaran informasi menjadi lebih cepat, yang disusul dengan volume file yang dikirimkan kian besar. Di balik sisi positif tersebut, sisi negatif pun menghantui. Internet menjadi pendorong pertumbuhan industri yang halal hingga yang haram, bahkan untuk menyebarkan konten edukasi hingga propaganda, hasutan dan fitnah.",
@@ -8,7 +10,7 @@
       "Pada akhirnya, tanpa nilai yang kokoh, seseorang kesulitan membedakan kala yang bermanfaat, tidak bermanfaat, ataupun yang berbahaya bagi dirinya maupun orang lain. Seorang remaja yang hedonis misalnya, saat melihat mobil mewah, ponsel mahal dan melihat keriangan dalam pesta pora menganggap itulah gaya hidup idaman yang asik. Dan mereka menilai manusia dari kepemilikan harta, bukan akhlak, pemikiran, atau sumbangsihnya terhadap kehidupan masyarakat. Dengan demikian, ia menganggap manusia setara hal berbahagia, tanpa memperoleh penjelasan semua kemewahan itu tidak didapat dengan mudah apalagi gratis. Ketidakhaluannya itu mendorong mereka untuk meraih jalan pintas, misalnya dengan menjadi pekerja seks komersial (PSK) ataupun pedagang maupun pengguna narkoba. Di sisi lain, media sosial yang memberi kebebasan tanpa tuntunan agama, bisa menjadi bumerang bagi generasi muda, terutama generasi Islam. Masyarakat tidak menyadari, belajar agama tanpa bimbingan guru dan tidak memahami asal-usul ilmu bisa berakibat radikalisme agama. Apalagi di era milenial, banyak orang yang menganggap dirinya lebih pintar dari orang lain, padahal ia hanya membaca satu dua artikel di internet yang memperkuat keyakinan dirinya.",
       "Selain radikalisme agama, bahaya yang lain datang dari ideologi sosialisme dan komunisme. Di Indonesia, paham warisan era Perang Dingin itu memang nyaris hilang. Negara yang saat ini mengklaim sebagai komunis hanya tersisa Belarusia, China, Kuba, Laos, Korea Utara, Venezuela dan Vietnam.3 Pemerintah melarang penyebaran ideologi komunisme dan sosialisme melalui Ketetapan MPR Nomor XXV/MPRS/1966 Tahun 1966 Tentang Pembubaran Partai Komunis Indonesia (PKI). Ketetapan MPR tersebut selain membubarkan PKI, juga melarang setiap kegiatan untuk menyebarkan atau mengembangkan paham atau ajaran Komunis/Marxisme-Leninisme.",
       "Ketiga ideologi tersebut, kerap disebut ekstrim kanan dan kiri yang mengancam eksistensi bangsa Indonesia, dengan melemahkan nilai dari dasar negara yakni Pancasila. Makalah ini disusun, agar generasi muda memahami ideologi yang mengancam bangsa dan negara dan selanjutnya mampu terlibat aktif dalam menjaga pilar kebangsaan yakni Pancasila, UUD 1945, Bhinneka Tunggal Ika dan Negara Kesatuan Republik Indonesia (NKRI). Setelah memahami tantangan tersebut, LDII memastikan generasi muda Indonesia menjadi generasi yang cinta tanah air dan bangsanya, mengedepankan kepentingan nasional untuk perlu memahami wawasan kebangsaan dan memiliki 29 karakter luhur. Agar generasi muda mampu mewarnai Indonesia Emas 2045."
-]
+    ]
   }
 }
 
